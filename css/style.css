@@ -1,0 +1,101 @@
+body{
+    font-family: 'Poppins', sans-serif !important;
+    background-image: url(../img/back1.jpeg);
+    background-repeat: no-repeat;
+    background-size: auto;
+
+    color: whitesmoke !important;
+
+}
+
+.navbar-light .navbar-brand{
+    color: rgb(175, 184, 255) !important;
+}
+
+.navbar-light .navbar-nav .nav-link {
+    color: rgb(175, 184, 255) !important;
+}
+
+li {
+    padding-right: 10px;
+}
+
+section.intro {
+    padding-top: 178px;
+    padding-left: 100px;
+    height: 80vh;
+}
+
+ul.list-inline.ml-auto {
+    display: flex;
+}
+
+.navbar-nav {
+    flex-direction: row !important;
+}
+
+li.nav-item {
+    padding-right: 30px;
+}
+
+div#container {
+    padding-bottom: 20px;
+}
+ 
+a.navbar-brand:hover {
+    
+    background: gold;
+    animation-duration: 2s;
+}
+a.nav-link:hover {
+    text-decoration: underline;
+    text-decoration-color: gold;
+    animation-duration: 2s;
+}
+.btn-warning {
+    
+    color: white !important;
+    background-color: gold;
+    border-color: gold;
+}
+
+a{
+    color: rgb(175, 184, 255) !important;
+}
+
+a:hover {
+    background-color: gold !important;
+}
+
+h2#unix {
+    text-align: center;
+}
+
+div#listedprojects {
+    padding-top: 5%;
+    padding-left: 10%;
+    padding-right: 10%;
+}
+
+section.projects.animated.slideInLeft {
+    height: 80vh;
+}
+h2#about {
+    text-align: center;
+    padding-bottom: 10px;
+}
+
+.container-row {
+    height: 80vh;
+}
+
+p#personal {
+    padding-left: 70px;
+    text-align: justify;
+}
+
+@media (min-width: 1200px){
+.container {
+    height: 80vh;
+}
+}

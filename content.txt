@@ -1,0 +1,27 @@
+Nikhil Tarkase
+I’m a 27 year old Unix System Administrator with four+ years of experience. Specialising in Unix, Redhat, Linux.
+
+Over the years I have found a love for Unix Administrator and making clients easy to use and accessible to everyone.
+
+I’m currently working at Softenger , as a team leader. Over the past few years, I’ve had the privilege to work on some fantastic preople in the industry. 
+
+However, when I’m not behind in the backend servers, you could find me either chillaxing or on a Youtube binge.
+
+Feel free to contact me here.
+
+SKILLS
+Shell Scripting Networking
+Unix Administration
+Installation Management
+Server Management
+System Administration
+Problem Management
+IT Project Management
+Redhat Linux
+Hardware referesh
+storage migration
+VIO upgrade
+VIO disk mapping
+Firmware upgrade
+frame down activity
+nexus switch replacement activity
